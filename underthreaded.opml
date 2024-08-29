@@ -377,20 +377,5 @@
       <outline text="Dev Ed" title="Dev Ed" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClb90NQQcskPUGDIXsQEz5Q" htmlUrl="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q"/>
       <outline text="Dev as Life" title="Dev as Life" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7yZ6keOGsvERMp2HaEbbXQ" htmlUrl="https://www.youtube.com/channel/UC7yZ6keOGsvERMp2HaEbbXQ"/>
     </outline>
-    <outline text="Security" title="Security">
-      <outline xmlUrl="https://www.corsix.org/rss.xml" htmlUrl="https://www.corsix.org" text="corsix.org" type="rss" />
-      <outline xmlUrl="https://0xbigshaq.github.io/feed.xml" htmlUrl="https://0xbigshaq.github.io" text="io::pewpew()" type="rss" />
-      <outline xmlUrl="https://shift.infinite.red/feed" htmlUrl="https://shift.infinite.red" text="Red Shift - Medium" type="rss" />
-      <outline xmlUrl="https://securitylabs.datadoghq.com/rss/feed.xml" htmlUrl="https://securitylabs.datadoghq.com" text="Home | Datadog Security Labs" type="rss" />
-      <outline xmlUrl="https://labs.watchtowr.com/rss/" htmlUrl="https://labs.watchtowr.com" text="watchTowr Labs - Blog" type="rss" />
-      <outline xmlUrl="https://www.shielder.com/blog/index.xml" htmlUrl="https://www.shielder.com" text="Shielder - Home" type="rss" />
-      <outline xmlUrl="https://offsec.almond.consulting/feeds/all.rss.xml" htmlUrl="https://offsec.almond.consulting" text="All articles - Almond Offensive Security Blog" type="rss" />
-      <outline xmlUrl="https://www.ambionics.io/feeds/all.rss.xml" htmlUrl="https://www.ambionics.io" text="Offensive and Continuous Web Security Assessment | Ambionics Security" type="rss" />
-      <outline xmlUrl="index.rss" htmlUrl="https://op-co.de" text="Georg Lukas :: Homepage" type="rss" />
-      <outline xmlUrl="https://security.humanativaspa.it/feed/" htmlUrl="https://security.humanativaspa.it" text="HN SECURITY" type="rss" />
-      <outline xmlUrl="https://pentestlab.blog/feed/" htmlUrl="https://pentestlab.blog/" text="Penetration Testing Lab - Offensive Techniques &amp; Methodologies" type="rss" />
-      <outline xmlUrl="https://www.securityinbits.com/feed" htmlUrl="https://www.securityinbits.com" text="Securityinbits" type="rss" />
-      <outline xmlUrl="https://courk.cc/feeds/all.atom.xml" htmlUrl="https://courk.cc" text="Courk's Blog" type="rss" />
-    </outline>
   </body>
 </opml>
