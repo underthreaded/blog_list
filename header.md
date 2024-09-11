@@ -5,4 +5,6 @@ We tend to choose blogs which meet our own subjective (and perhaps flawed) views
 If a blog does not appear on this list, it doesn't mean we don't rate it.
 Raise an issue or PR to add it, and we'll gladly review and add if we decide we want it included.
 
-Feel free to use the opml file in the repo, or peruse the README to find new people to follow!
+Feel free to use the OPML file in the repo, or peruse the README to find new people to follow!
+
+Presented in no particular order:
