@@ -298,18 +298,17 @@
       <outline text="Stack Exchange Blog" title="Stack Exchange Blog" type="rss" xmlUrl="https://blog.stackoverflow.com/feed/" htmlUrl="https://blog.stackoverflow.com/"/>
     </outline>
     <outline text="Youtube" title="Youtube">
+      <outline text="Martin Owens" title="Martin Owens" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPxxdsRV92DZGE-RcRsw_gw" htmlUrl="https://www.youtube.com/@doctormo"/>
       <outline text="Jonathan Blow" title="Jonathan Blow" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCuoqzrsHlwv1YyPKLuMDUQ" htmlUrl="http://www.youtube.com/user/jblow888"/>
       <outline text="Anton Putra" title="Anton Putra" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeLvlbC754U6FyFQbKc0UnQ" htmlUrl="https://www.youtube.com/channel/UCeLvlbC754U6FyFQbKc0UnQ"/>
       <outline text="mikeconleytoronto" title="mikeconleytoronto" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTDXvmarLFnox4AO0w2NuiQ" htmlUrl="https://www.youtube.com/channel/UCTDXvmarLFnox4AO0w2NuiQ"/>
       <outline text="Simon Toth" title="Simon Toth" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpSqMoRM5sewrjtI1RkDKxg" htmlUrl="https://www.youtube.com/channel/UCpSqMoRM5sewrjtI1RkDKxg"/>
-      <outline text="Data Council" title="Data Council" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAezwIIm1SfsqdmbQI-65pA" htmlUrl="https://www.youtube.com/channel/UCAezwIIm1SfsqdmbQI-65pA/videos"/>
       <outline text="Plumbers of Data Science" title="Plumbers of Data Science" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY8mzqqGwl5_bTpBY9qLMAA" htmlUrl="https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA"/>
       <outline text="Data with Zach" title="Data with Zach" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAq9f7jFEA7Mtl3qOZy2h1A" htmlUrl="https://www.youtube.com/channel/UCAq9f7jFEA7Mtl3qOZy2h1A"/>
       <outline text="Darshil Parmar" title="Darshil Parmar" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCChmJrVa8kDg05JfCmxpLRw" htmlUrl="https://www.youtube.com/channel/UCChmJrVa8kDg05JfCmxpLRw"/>
       <outline text="Andrea Leopardi" title="Andrea Leopardi" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiaFBwlunX1m8FKwZQ1GOSA" htmlUrl="https://www.youtube.com/channel/UCiaFBwlunX1m8FKwZQ1GOSA"/>
       <outline text="German Velasco" title="German Velasco" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoWTCEbunHmsHJx_iBN4Ktw" htmlUrl="https://www.youtube.com/channel/UCoWTCEbunHmsHJx_iBN4Ktw"/>
       <outline text="Andrej Karpathy" title="Andrej Karpathy" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ" htmlUrl="https://www.youtube.com/channel/UCXUPKJO5MZQN11PqgIvyuvQ"/>
-      <outline text="CMU Database Group" title="CMU Database Group" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnBsf2rH-K7pn09rb3qvkA" htmlUrl="https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA"/>
       <outline text="Martin Kleppmann" title="Martin Kleppmann" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClB4KPy5LkJj1t3SgYVtMOQ" htmlUrl="https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ"/>
       <outline text="JimKurose" title="JimKurose" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRk6f7EPdMWB_dQNi2Ga-1A" htmlUrl="https://www.youtube.com/channel/UCRk6f7EPdMWB_dQNi2Ga-1A"/>
       <outline text="Mozilla Developer" title="Mozilla Developer" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCh5UlGiu9d6LegIeUCW4N1w" htmlUrl="https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w"/>
@@ -317,20 +316,6 @@
       <outline text="Evil Tester - Software Testing" title="Evil Tester - Software Testing" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCAwIFH3FRVD9GBuVRW_mUw" htmlUrl="https://www.youtube.com/channel/UCCAwIFH3FRVD9GBuVRW_mUw"/>
       <outline text="Continuous Delivery" title="Continuous Delivery" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCfqyGl3nq_V0bo64CjZh8g" htmlUrl="https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g"/>
       <outline text="CodeAesthetic" title="CodeAesthetic" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaSCt8s_4nfkRglWCvNSDrg" htmlUrl="https://www.youtube.com/channel/UCaSCt8s_4nfkRglWCvNSDrg"/>
-      <outline text="The Big Elixir" title="The Big Elixir" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCInJUDVff2bzZSrkDRUCOdA" htmlUrl="https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA"/>
-      <outline text="Strange Loop" title="Strange Loop" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_QIfHvN9auy2CoOdSfMWDw" htmlUrl="http://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw"/>
-      <outline text="San Fran PostgreSQL User Group" title="San Fran PostgreSQL User Group" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmfU5xv-fpNlrvBRmKGaTAw" htmlUrl="https://www.youtube.com/channel/UCmfU5xv-fpNlrvBRmKGaTAw"/>
-      <outline text="PyData" title="PyData" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOjD18EJYcsBog4IozkF_7w" htmlUrl="http://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w"/>
-      <outline text="PyCon 2020" title="PyCon 2020" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMjMBMGt0WJQLeluw6qNJuA" htmlUrl="https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA"/>
-      <outline text="Meeting C++" title="Meeting C++" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJpMLydEYA08vusDkq3FmjQ" htmlUrl="http://www.youtube.com/user/MeetingCPP"/>
-      <outline text="LeadDev" title="LeadDev" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmM3eCpmWKLJj2PDW_jdGkg" htmlUrl="https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg"/>
-      <outline text="Kiwi Python User Group" title="Kiwi Python User Group" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_gIPLffA7ZTYc5gOV6MgA" htmlUrl="http://www.youtube.com/channel/UCJ_gIPLffA7ZTYc5gOV6MgA"/>
-      <outline text="InfoQ" title="InfoQ" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkQX1tChV7Z7l1LFF4L9j_g" htmlUrl="http://www.youtube.com/user/MarakanaTechTV"/>
-      <outline text="Explore DDD" title="Explore DDD" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcpKGt6MVvz7dISXLlMGmag" htmlUrl="https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag"/>
-      <outline text="Erlang Solutions" title="Erlang Solutions" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKrD_GYN3iDpG_uMmADPzJQ" htmlUrl="http://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ"/>
-      <outline text="ElixirConf" title="ElixirConf" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0l2QTnO1P2iph-86HHilMQ" htmlUrl="https://www.youtube.com/channel/UC0l2QTnO1P2iph-86HHilMQ"/>
-      <outline text="cpponsea" title="cpponsea" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAczr0j6ZuiVaiGFZ4qxApw" htmlUrl="https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw"/>
-      <outline text="CppCon" title="CppCon" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg" htmlUrl="http://www.youtube.com/user/CppCon"/>
       <outline text="Coding After Work" title="Coding After Work" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-2_3wUueE0DwE3qDRGCnOQ" htmlUrl="https://www.youtube.com/channel/UC-2_3wUueE0DwE3qDRGCnOQ"/>
       <outline text="Code Sync" title="Code Sync" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC47eUBNO8KBH_V8AfowOWOw" htmlUrl="https://www.youtube.com/channel/UC47eUBNO8KBH_V8AfowOWOw"/>
       <outline text="ClojureTV" title="ClojureTV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaLlzGqiPE2QRj6sSOawJRg" htmlUrl="http://www.youtube.com/user/ClojureTV"/>
@@ -353,7 +338,6 @@
       <outline text="Pragmatic Engineer" title="Pragmatic Engineer" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPbwhExawYrn9xxI21TFfyw" htmlUrl="https://www.youtube.com/channel/UCPbwhExawYrn9xxI21TFfyw"/>
       <outline text="poeticoding" title="poeticoding" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnu5XnJUY22OMqvbOK27Ynw" htmlUrl="https://www.youtube.com/channel/UCnu5XnJUY22OMqvbOK27Ynw"/>
       <outline text="No Boilerplate" title="No Boilerplate" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUMwY9iS8oMyWDYIe6_RmoA" htmlUrl="https://www.youtube.com/channel/UCUMwY9iS8oMyWDYIe6_RmoA"/>
-      <outline text="NetworkChuck" title="NetworkChuck" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ" htmlUrl="https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ"/>
       <outline text="Matt Godbolt" title="Matt Godbolt" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC3kVzi4cWpLl16KmzsEtiQ" htmlUrl="https://www.youtube.com/channel/UCC3kVzi4cWpLl16KmzsEtiQ"/>
       <outline text="Marko Tasic" title="Marko Tasic" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq-PF3nIPg5KO8po0dHcXsQ" htmlUrl="https://www.youtube.com/channel/UCq-PF3nIPg5KO8po0dHcXsQ"/>
       <outline text="Mark Richards" title="Mark Richards" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-Z7T0lAq_xECevIz8E5R5w" htmlUrl="https://www.youtube.com/channel/UC-Z7T0lAq_xECevIz8E5R5w"/>
@@ -365,7 +349,6 @@
       <outline text="Hyperplexed" title="Hyperplexed" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmEzz-dPBVrsy4ZluSsYHDg" htmlUrl="https://www.youtube.com/channel/UCmEzz-dPBVrsy4ZluSsYHDg"/>
       <outline text="Hussein Nasser" title="Hussein Nasser" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg" htmlUrl="https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg"/>
       <outline text="Fireship" title="Fireship" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA" htmlUrl="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"/>
-      <outline text="elx pro" title="elx pro" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLzHBFuE6oxPdP6t9iqpGpQ" htmlUrl="https://www.youtube.com/channel/UCLzHBFuE6oxPdP6t9iqpGpQ"/>
       <outline text="Elixir Casts" title="Elixir Casts" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEJIWmO9DIE83i6_qmJXqjQ" htmlUrl="https://www.youtube.com/channel/UCEJIWmO9DIE83i6_qmJXqjQ"/>
       <outline text="Jason Turner" title="Jason Turner" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw" htmlUrl="http://www.youtube.com/channel/UCxHAlbZQNFU2LgEtiqd2Maw"/>
       <outline text="CopperSpice" title="CopperSpice" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-lNlWEq0kpMcThO-I81ZdQ" htmlUrl="https://www.youtube.com/channel/UC-lNlWEq0kpMcThO-I81ZdQ"/>
@@ -382,6 +365,26 @@
       <outline text="Meta" title="Meta" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEHFikgnRuLd1HYKTLrae9Q" htmlUrl="https://www.youtube.com/channel/UCEHFikgnRuLd1HYKTLrae9Q"/>
       <outline text="Dev Ed" title="Dev Ed" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClb90NQQcskPUGDIXsQEz5Q" htmlUrl="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q"/>
       <outline text="Dev as Life" title="Dev as Life" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7yZ6keOGsvERMp2HaEbbXQ" htmlUrl="https://www.youtube.com/channel/UC7yZ6keOGsvERMp2HaEbbXQ"/>
+    </outline>
+    <outline text="Conference/Lectures YouTube" title="Conference/Lectures YouTube">
+      <outline text="Strange Loop" title="Strange Loop" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_QIfHvN9auy2CoOdSfMWDw" htmlUrl="http://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw"/>
+      <outline text="San Fran PostgreSQL User Group" title="San Fran PostgreSQL User Group" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmfU5xv-fpNlrvBRmKGaTAw" htmlUrl="https://www.youtube.com/channel/UCmfU5xv-fpNlrvBRmKGaTAw"/>
+      <outline text="CppCon" title="CppCon" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg" htmlUrl="http://www.youtube.com/user/CppCon"/>
+      <outline text="cpponsea" title="cpponsea" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAczr0j6ZuiVaiGFZ4qxApw" htmlUrl="https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw"/>
+      <outline text="PyData" title="PyData" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOjD18EJYcsBog4IozkF_7w" htmlUrl="http://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w"/>
+      <outline text="PyCon 2020" title="PyCon 2020" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMjMBMGt0WJQLeluw6qNJuA" htmlUrl="https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA"/>
+      <outline text="Meeting C++" title="Meeting C++" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJpMLydEYA08vusDkq3FmjQ" htmlUrl="http://www.youtube.com/user/MeetingCPP"/>
+      <outline text="LeadDev" title="LeadDev" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmM3eCpmWKLJj2PDW_jdGkg" htmlUrl="https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg"/>
+      <outline text="Kiwi Python User Group" title="Kiwi Python User Group" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_gIPLffA7ZTYc5gOV6MgA" htmlUrl="http://www.youtube.com/channel/UCJ_gIPLffA7ZTYc5gOV6MgA"/>
+      <outline text="InfoQ" title="InfoQ" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkQX1tChV7Z7l1LFF4L9j_g" htmlUrl="http://www.youtube.com/user/MarakanaTechTV"/>
+      <outline text="Explore DDD" title="Explore DDD" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcpKGt6MVvz7dISXLlMGmag" htmlUrl="https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag"/>
+      <outline text="Erlang Solutions" title="Erlang Solutions" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKrD_GYN3iDpG_uMmADPzJQ" htmlUrl="http://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ"/>
+      <outline text="ElixirConf" title="ElixirConf" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0l2QTnO1P2iph-86HHilMQ" htmlUrl="https://www.youtube.com/channel/UC0l2QTnO1P2iph-86HHilMQ"/>
+      <outline text="The Big Elixir" title="The Big Elixir" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCInJUDVff2bzZSrkDRUCOdA" htmlUrl="https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA"/>
+      <outline text="Data Council" title="Data Council" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAezwIIm1SfsqdmbQI-65pA" htmlUrl="https://www.youtube.com/channel/UCAezwIIm1SfsqdmbQI-65pA/videos"/>
+      <outline text="CMU Database Group" title="CMU Database Group" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnBsf2rH-K7pn09rb3qvkA" htmlUrl="https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA"/>
+      <outline text="NDC Conferences" title="NDC Conferences" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTdw38Cw6jcm0atBPA39a0Q" htmlUrl="https://www.youtube.com/@NDC"/>
+      <outline text="GOTO Conferences" title="GOTO Conferences" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs_tLP3AiwYKwdUHpltJPuA" htmlUrl="https://www.youtube.com/@GOTO-"/>
     </outline>
   </body>
 </opml>
