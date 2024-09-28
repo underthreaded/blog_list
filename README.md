@@ -114,6 +114,7 @@ Presented in no particular order:
 - Ned Batchelder's blog ([web](https://nedbatchelder.com/blog)|[rss](https://nedbatchelder.com/blog/rss.xml))
 - Martijn Pieters ([web](https://www.zopatista.com/)|[rss](https://www.zopatista.com/atom.xml))
 - Artem Golubin ([web](https://rushter.com)|[rss](https://rushter.com/blog/feed/))
+- Sebastian Witowski ([web](https://switowski.com/)|[rss](https://switowski.com/feed.xml))
 
 
 ## Databases
@@ -207,6 +208,7 @@ Presented in no particular order:
 - Aphyr: Posts ([web](http://aphyr.com/)|[rss](https://aphyr.com/posts.atom))
 - Martial Tester ([web](https://martialtester.wordpress.com/)|[rss](https://martialtester.wordpress.com/feed))
 - Blog - DevelopSense ([web](https://developsense.com/)|[rss](https://developsense.com/blog/feed))
+- James Carleton ([web](https://www.carletondesign.com)|[rss](https://www.carletondesign.com/atom.xml))
 
 
 ## Tech News

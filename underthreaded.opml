@@ -104,6 +104,7 @@
       <outline text="Ned Batchelder's blog" title="Ned Batchelder's blog" type="rss" xmlUrl="https://nedbatchelder.com/blog/rss.xml" htmlUrl="https://nedbatchelder.com/blog"/>
       <outline text="Martijn Pieters" title="Martijn Pieters" type="rss" xmlUrl="https://www.zopatista.com/atom.xml" htmlUrl="https://www.zopatista.com/"/>
       <outline xmlUrl="https://rushter.com/blog/feed/" htmlUrl="https://rushter.com" text="Artem Golubin" type="rss" />
+      <outline xmlUrl="https://switowski.com/feed.xml" htmlUrl="https://switowski.com/" text="Sebastian Witowski" type="rss" />
     </outline>
     <outline text="Databases" title="Databases">
       <outline text="Modern SQL" title="Modern SQL" type="rss" xmlUrl="https://modern-sql.com/feed" htmlUrl="https://modern-sql.com/"/>
@@ -189,6 +190,7 @@
       <outline text="Aphyr: Posts" title="Aphyr: Posts" type="rss" xmlUrl="https://aphyr.com/posts.atom" htmlUrl="http://aphyr.com/"/>
       <outline text="Martial Tester" title="Martial Tester" type="rss" xmlUrl="https://martialtester.wordpress.com/feed" htmlUrl="https://martialtester.wordpress.com/"/>
       <outline text="Blog - DevelopSense" title="Blog - DevelopSense" type="rss" xmlUrl="https://developsense.com/blog/feed" htmlUrl="https://developsense.com/"/>
+      <outline text="James Carleton" title="James Carleton" type="rss" xmlUrl="https://www.carletondesign.com/atom.xml" htmlUrl="https://www.carletondesign.com"/>
     </outline>
     <outline text="Tech News" title="Tech News">
       <outline text="headllines/hackernews-daily Issues" title="headllines/hackernews-daily Issues" type="rss" xmlUrl="https://rsshub.app/github/issue/headllines/hackernews-daily" htmlUrl="https://github.com/headllines/hackernews-daily/issues"/>
