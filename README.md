@@ -125,7 +125,7 @@ Presented in no particular order:
 - Dylan Paulus ([web](https://dylanpaulus.com/)|[rss](https://www.dylanpaulus.com/rss.xml))
 
 
-## BEAM
+## BEAM (erlang/elixir + gleam)
 - Tech Musings ([web](https://meraj-gearhead.ca/)|[rss](https://meraj-gearhead.ca/rss.xml))
 - Andrea Leopardi ([web](https://andrealeopardi.com/)|[rss](https://andrealeopardi.com/feed.xml))
 - Introduction on Adopting Erlang ([web](https://adoptingerlang.org/docs/introduction/)|[rss](https://adoptingerlang.org/docs/introduction/index.xml))
@@ -135,7 +135,8 @@ Presented in no particular order:
 - StakNine ([web](https://staknine.com/)|[rss](https://staknine.com/feed))
 - Journeys of a not so young anymore Software Engineer ([web](https://pragtob.wordpress.com/)|[rss](https://pragtob.wordpress.com/feed/))
 - Stuff I Have Learned ([web](https://erikarow.land/notes/stuff-i-learned)|[rss](https://erikarow.land/combined.xml))
-- eigr.io | eigr.io ([web](https://eigr.io)|[rss](https://eigr.io/blog/rss.xml))
+- eigr.io ([web](https://eigr.io)|[rss](https://eigr.io/blog/rss.xml))
+- Mitchell Hanberg ([web](https://www.mitchellhanberg.com/)|[rss](https://www.mitchellhanberg.com/feed.xml))
 
 
 ## JVM

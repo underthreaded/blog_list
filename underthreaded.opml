@@ -113,7 +113,7 @@
       <outline text="Grant Fritchey" type="rss" xmlUrl="https://www.scarydba.com/feed/" htmlUrl="https://www.scarydba.com/"/>
       <outline text="Dylan Paulus" type="rss" xmlUrl="https://www.dylanpaulus.com/rss.xml" htmlUrl="https://dylanpaulus.com/"/>
     </outline>
-    <outline text="BEAM">
+    <outline text="BEAM (erlang/elixir + gleam)">
       <outline text="Tech Musings" type="rss" xmlUrl="https://meraj-gearhead.ca/rss.xml" htmlUrl="https://meraj-gearhead.ca/"/>
       <outline text="Andrea Leopardi" type="rss" xmlUrl="https://andrealeopardi.com/feed.xml" htmlUrl="https://andrealeopardi.com/"/>
       <outline text="Introduction on Adopting Erlang" type="rss" xmlUrl="https://adoptingerlang.org/docs/introduction/index.xml" htmlUrl="https://adoptingerlang.org/docs/introduction/"/>
@@ -123,7 +123,8 @@
       <outline text="StakNine" type="rss" xmlUrl="https://staknine.com/feed" htmlUrl="https://staknine.com/"/>
       <outline xmlUrl="https://pragtob.wordpress.com/feed/" htmlUrl="https://pragtob.wordpress.com/" text="Journeys of a not so young anymore Software Engineer" type="rss" />
       <outline xmlUrl="https://erikarow.land/combined.xml" htmlUrl="https://erikarow.land/notes/stuff-i-learned" text="Stuff I Have Learned" type="rss" />
-      <outline xmlUrl="https://eigr.io/blog/rss.xml" htmlUrl="https://eigr.io" text="eigr.io | eigr.io" type="rss" />
+      <outline xmlUrl="https://eigr.io/blog/rss.xml" htmlUrl="https://eigr.io" text="eigr.io" type="rss" />
+      <outline xmlUrl="https://www.mitchellhanberg.com/feed.xml" htmlUrl="https://www.mitchellhanberg.com/" text="Mitchell Hanberg" type="rss" />
     </outline>
     <outline text="JVM">
       <outline xmlUrl="https://medium.com/feed/@petr-zapletal" htmlUrl="https://petr-zapletal.medium.com/" text="Petr Zapletal - Medium" type="rss" />
