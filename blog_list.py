@@ -14,7 +14,7 @@ def main() -> None:
         fp.write(header_file.read_text().strip())
 
         for section in tree.findall(".//body/outline"):
-            section_title = section.attrib["title"] or section.attrib["text"]
+            section_title = section.attrib["text"]
             fp.write(f"\n\n## {section_title}\n")
             for item in section.findall("./outline"):
                 name = item.attrib["text"] or item.attrib["title"]
