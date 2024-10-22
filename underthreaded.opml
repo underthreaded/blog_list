@@ -60,6 +60,7 @@
       <outline text="unixdigest.com" type="rss" xmlUrl="https://unixdigest.com/feed.rss" htmlUrl="https://unixdigest.com/"/>
       <outline text="Julia Evans" type="rss" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca/"/>
       <outline text="unixsheikh.com" type="rss" xmlUrl="https://unixsheikh.com/feed.rss" htmlUrl="https://unixsheikh.com/"/>
+      <outline text="IT Notes" type="rss" xmlUrl="https://it-notes.dragas.net/index.xml" htmlUrl="https://it-notes.dragas.net/"/>
     </outline>
     <outline text="Low Level/Performance">
       <outline text="notgull" type="rss" xmlUrl="https://notgull.net/feed.xml" htmlUrl="https://notgull.net/"/>

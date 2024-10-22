@@ -67,6 +67,7 @@ Presented in no particular order:
 - unixdigest.com ([web](https://unixdigest.com/)|[rss](https://unixdigest.com/feed.rss))
 - Julia Evans ([web](http://jvns.ca/)|[rss](https://jvns.ca/atom.xml))
 - unixsheikh.com ([web](https://unixsheikh.com/)|[rss](https://unixsheikh.com/feed.rss))
+- IT Notes ([web](https://it-notes.dragas.net/)|[rss](https://it-notes.dragas.net/index.xml))
 
 
 ## Low Level/Performance
