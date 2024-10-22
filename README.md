@@ -137,6 +137,7 @@ Presented in no particular order:
 - Stuff I Have Learned ([web](https://erikarow.land/notes/stuff-i-learned)|[rss](https://erikarow.land/combined.xml))
 - eigr.io ([web](https://eigr.io)|[rss](https://eigr.io/blog/rss.xml))
 - Mitchell Hanberg ([web](https://www.mitchellhanberg.com/)|[rss](https://www.mitchellhanberg.com/feed.xml))
+- Andrew Timberlake’s Blog ([web](https://andrewtimberlake.com/)|[rss](https://andrewtimberlake.com/blog/feed.xml))
 
 
 ## JVM
@@ -257,8 +258,8 @@ Presented in no particular order:
 - incident.io ([web](https://incident.io/blog)|[rss](https://incident.io/blog.xml))
 - Coiled Blog ([web](https://blog.coiled.io/)|[rss](https://blog.coiled.io/blog/atom.xml))
 - Rust Lang Blog ([web](https://blog.rust-lang.org/)|[rss](https://blog.rust-lang.org/feed.xml))
-- The Pants Build System Blog ([web](https://blog.pantsbuild.org/)|[rss](https://blog.pantsbuild.org/rss/))
-- XTDB Blog ([web](https://xtdb.com/)|[rss](https://xtdb.com/feed.xml))
+- The Pants Build System Blog ([web](https://www.pantsbuild.org/blog)|[rss](https://www.pantsbuild.org/blog/atom.xml))
+- XTDB Blog ([web](https://xtdb.com/)|[rss](https://xtdb.com/blog.xml))
 - DoltHub Blog ([web](https://www.dolthub.com/blog)|[rss](https://www.dolthub.com/blog/rss.xml))
 - JBake ([web](http://datomic.com/)|[rss](https://www.datomic.com/feed.xml))
 - Python ([web](https://devblogs.microsoft.com/python)|[rss](https://devblogs.microsoft.com/python/feed/))

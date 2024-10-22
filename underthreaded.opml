@@ -125,6 +125,7 @@
       <outline xmlUrl="https://erikarow.land/combined.xml" htmlUrl="https://erikarow.land/notes/stuff-i-learned" text="Stuff I Have Learned" type="rss" />
       <outline xmlUrl="https://eigr.io/blog/rss.xml" htmlUrl="https://eigr.io" text="eigr.io" type="rss" />
       <outline xmlUrl="https://www.mitchellhanberg.com/feed.xml" htmlUrl="https://www.mitchellhanberg.com/" text="Mitchell Hanberg" type="rss" />
+      <outline xmlUrl="https://andrewtimberlake.com/blog/feed.xml" htmlUrl="https://andrewtimberlake.com/" text="Andrew Timberlake’s Blog" type="rss" />
     </outline>
     <outline text="JVM">
       <outline xmlUrl="https://medium.com/feed/@petr-zapletal" htmlUrl="https://petr-zapletal.medium.com/" text="Petr Zapletal - Medium" type="rss" />
@@ -238,8 +239,8 @@
       <outline xmlUrl="https://incident.io/blog.xml" htmlUrl="https://incident.io/blog" text="incident.io" type="rss" />
       <outline xmlUrl="https://blog.coiled.io/blog/atom.xml" htmlUrl="https://blog.coiled.io/" text="Coiled Blog" type="rss" />
       <outline text="Rust Lang Blog" type="rss" xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
-      <outline text="The Pants Build System Blog" type="rss" xmlUrl="https://blog.pantsbuild.org/rss/" htmlUrl="https://blog.pantsbuild.org/"/>
-      <outline text="XTDB Blog" type="rss" xmlUrl="https://xtdb.com/feed.xml" htmlUrl="https://xtdb.com/"/>
+      <outline text="The Pants Build System Blog" type="rss" xmlUrl="https://www.pantsbuild.org/blog/atom.xml" htmlUrl="https://www.pantsbuild.org/blog"/>
+      <outline text="XTDB Blog" type="rss" xmlUrl="https://xtdb.com/blog.xml" htmlUrl="https://xtdb.com/"/>
       <outline text="DoltHub Blog" type="rss" xmlUrl="https://www.dolthub.com/blog/rss.xml" htmlUrl="https://www.dolthub.com/blog"/>
       <outline text="JBake" type="rss" xmlUrl="https://www.datomic.com/feed.xml" htmlUrl="http://datomic.com/"/>
       <outline text="Python" type="rss" xmlUrl="https://devblogs.microsoft.com/python/feed/" htmlUrl="https://devblogs.microsoft.com/python"/>
