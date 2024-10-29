@@ -325,6 +325,8 @@ Presented in no particular order:
 
 
 ## Youtube
+- Carberra ([web](https://www.youtube.com/@Carberra)|[rss](https://www.youtube.com/feeds/videos.xml?channel_id=UC13cYu7lec-oOcqQf5L-brg))
+- Peter Ullrich ([web](https://www.youtube.com/@peterandcode)|[rss](https://www.youtube.com/feeds/videos.xml?channel_id=UCiKq_ns5yMQcmcSPS17q9jg))
 - Martin Owens ([web](https://www.youtube.com/@doctormo)|[rss](https://www.youtube.com/feeds/videos.xml?channel_id=UCPxxdsRV92DZGE-RcRsw_gw))
 - Jonathan Blow ([web](http://www.youtube.com/user/jblow888)|[rss](https://www.youtube.com/feeds/videos.xml?channel_id=UCCuoqzrsHlwv1YyPKLuMDUQ))
 - Anton Putra ([web](https://www.youtube.com/channel/UCeLvlbC754U6FyFQbKc0UnQ)|[rss](https://www.youtube.com/feeds/videos.xml?channel_id=UCeLvlbC754U6FyFQbKc0UnQ))

@@ -172,7 +172,6 @@
       <outline text="Articles - brandur.org" type="rss" xmlUrl="https://brandur.org/articles.atom" htmlUrl="https://brandur.org/articles"/>
       <outline xmlUrl="https://matttproud.com/blog/index.xml" htmlUrl="https://matttproud.com/blog/index.html" text="matttproud.com (blog)" type="rss" />
     </outline>
-
     <outline text="Webdev">
       <outline text="Timo Tijhof" type="rss" xmlUrl="https://timotijhof.net/feed/" htmlUrl="https://timotijhof.net/"/>
       <outline xmlUrl="https://mko.re/feed.xml" htmlUrl="https://mko.re" text="Remko Tronçon's Homepage" type="rss" />
@@ -303,6 +302,8 @@
       <outline text="Stack Exchange Blog" type="rss" xmlUrl="https://blog.stackoverflow.com/feed/" htmlUrl="https://blog.stackoverflow.com/"/>
     </outline>
     <outline text="Youtube">
+      <outline text="Carberra" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC13cYu7lec-oOcqQf5L-brg" htmlUrl="https://www.youtube.com/@Carberra"/>
+      <outline text="Peter Ullrich" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiKq_ns5yMQcmcSPS17q9jg" htmlUrl="https://www.youtube.com/@peterandcode"/>
       <outline text="Martin Owens" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPxxdsRV92DZGE-RcRsw_gw" htmlUrl="https://www.youtube.com/@doctormo"/>
       <outline text="Jonathan Blow" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCuoqzrsHlwv1YyPKLuMDUQ" htmlUrl="http://www.youtube.com/user/jblow888"/>
       <outline text="Anton Putra" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeLvlbC754U6FyFQbKc0UnQ" htmlUrl="https://www.youtube.com/channel/UCeLvlbC754U6FyFQbKc0UnQ"/>
